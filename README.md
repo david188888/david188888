@@ -15,6 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#  🙋 Hello
+
+<table>
+<tr><td>
+
+<!-- About me 关于我 -->
+### 🤺 About Me
+  
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+
+<p>&emsp;&emsp;大家好，我是刘泓宇。</p>
+<p>&emsp;&emsp;目前就读于华南师范大学阿伯丁软件工程专业。</p>
+<p>&emsp;&emsp;未来打算从事金融与互联网交集类，希望和志同道合的伙伴一起努力!</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;治愈自己的最好的方式就是忙碌和早睡</p>
+
+</td></tr>
+
+<tr>
+<td>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=david188888&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
