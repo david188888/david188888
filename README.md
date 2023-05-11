@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=david188888&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david188888)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DB8894E6&center=true&vCenter=true&width=435&lines=Welcome+to+the+David's+world;Enjoy+your+journey!)](https://git.io/typing-svg)
