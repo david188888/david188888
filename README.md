@@ -14,6 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  <!-- profile logo 个人资料徽标 -->
+  <div align="center">
+    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://www.youtube.com/channel/UC4nDk0V8I1c6m3CIo0F2LIQ"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <!-- visitor statistics logo 访客数统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <!--  <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" /> -->
+  </div>
+
+
 
 #  🙋 Hello
 
@@ -43,3 +58,57 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david188888)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DB8894E6&center=true&vCenter=true&width=435&lines=Welcome+to+the+David's+world;Enjoy+your+journey!)](https://git.io/typing-svg)
+  
+
+  
+<tr><td>
+
+<!-- wakatime 统计 -->
+### 📊 WakaTime
+  
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                203 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+🌆 Daytime                305 commits         ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+🌃 Evening                467 commits         ██████████░░░░░░░░░░░░░░░   41.04 % 
+🌙 Night                  163 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   198 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Tuesday                  155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Wednesday                123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Thursday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Friday                   303 commits         ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+Saturday                 135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Vue.js                   34 hrs 39 mins      ██████████████████████░░░   88.12 % 
+JavaScript               2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Less                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔥 Editors: 
+VS Code                  39 hrs 20 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      39 hrs 20 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 11/05/2023 01:23:13 UTC
+<!--END_SECTION:waka-->
+  
+</td></tr>
