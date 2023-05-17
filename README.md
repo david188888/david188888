@@ -33,19 +33,27 @@ Here are some ideas to get you started:
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <p>&emsp;&emsp;I am a college student from the South China Normal University and University of Aberdeen </p>
-<p>&emsp;&emsp;Bachelor of computer science in Software engineering, Double Degree Program
-  South China Normal University
-  University of Aberdeen
-  </p>
-<p>&emsp;&emsp;I have a keen interest in the intersection of finance and the Internet，and I am  seeking a challenging chance to leverage my knowledge, skills, and passion to drive innovation and create value at the convergence of these fields</p>
+  
+  
+  
+---
+### Bachelor of computer science in Software engineering, Double Degree Program
+####     South China Normal University
+#### University of Aberdeen 
+---
+  
+  
+---
+<p>&emsp;&emsp;I have a keen interest in the intersection of finance and the Internet，and I am  seeking a challenging chance to leverage my knowledge, skills, and passion to drive innovation and create value at the convergence of these fields. </p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-<p>&emsp;&emsp;The best way to heal yourself is to be busy and go to bed early</p>
-
+---
 </td></tr>
 
 <tr>
 <td>
 
+  
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=david188888&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
