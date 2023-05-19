@@ -15,12 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <!-- profile logo 个人资料徽标 -->
+![C++](https://img.shields.io/badge/C++-512BD4?style=flat-square&logo=cplusplus&logoColor=ffffff)
+[![Python](https://img.shields.io/badge/-Python-37A6AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
+![OpenCV](https://img.shields.io/badge/-OpenCV-361522?style=flat-square&logo=opencv&logoColor=ffffff)
+![OpenAI Gym](https://img.shields.io/badge/-OpenAIGym-91302E?style=flat-square&logo=openaigym&logoColor=ffffff)
+![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+[![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+
+
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
     <!--  <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" /> -->
   </div>
-
-
 
 #  🙋 Hello
 
