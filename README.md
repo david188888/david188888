@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ---
 <p>&emsp;&emsp;I have a keen interest in the intersection of data analysis AI models and Internet，and I am seeking a challenging chance to leverage my knowledge, skills, and passion to drive innovation and create value at the convergence of these fields. </p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
----
+
 </td></tr>
 
 <tr>
@@ -90,13 +90,14 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 📅 **I'm Most Productive on Friday** 
+---
 
 🔥 Editors: 
-VS Code        
-
+	![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)     
+---
 💻 Operating System: 
-windows
-linux 
+  #### Windows
+  #### Linux 
 ---
 
   
