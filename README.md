@@ -16,19 +16,19 @@ Here are some ideas to get you started:
 -->
   <!-- profile logo 个人资料徽标 -->
 [![Python](https://img.shields.io/badge/-Python-37A6AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+![Static Badge](https://img.shields.io/badge/pytorch-white?style=flat&logo=pytorch)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
-![OpenCV](https://img.shields.io/badge/-OpenCV-361522?style=flat-square&logo=opencv&logoColor=ffffff)
-![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
-[![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white)
+
+![Node](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+[![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+<img src="https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white" alt="Linux">
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white)
 ![xbox](https://img.shields.io/badge/xbox-107C10.svg?logo=xbox&logoColor=white)
 
   <div align="center">
