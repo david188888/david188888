@@ -120,7 +120,7 @@ I analyzed user purchase intention based on multimodal data (audio and text) of 
 
 <div align="center">
 
-> *"Bridging the gap between theoretical AI models and practical applications through innovative multimodal approaches."*
+> *"Think more and use your code to change the world"*
 
 </div>
 
