@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>
-    Welcome! You're visitor #<img src="https://profile-counter.glitch.me/david188888/count.svg">
+    Welcome! You're visitor <img src="https://profile-counter.glitch.me/david188888/count.svg">
   </h1>
 </div>
 
-# 🙋 Hello World!
+# 🙋 Hi!
 
 <table>
 <tr><td>
