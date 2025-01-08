@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - **Bachelor of Computer Science in Software Engineering**
   - South China Normal University
   - University of Aberdeen
-
+-----------------------------------
 ### 🔬 Research Experience
 
 #### Research Interests
@@ -48,20 +48,9 @@ Here are some ideas to get you started:
 **Multimodal Purchase Intention Analysis in Telemarketing**
 
 📋 **Project Overview**
-- Developed an advanced prediction system for analyzing user purchase intentions
-- Utilized multimodal data analysis combining audio and textual information
-- Collaborated with a telemarketing company using proprietary dataset
+I analyzed user purchase intention based on multimodal data (audio and text) of phone recordings. The dataset is a private data set from a cooperating telemarketing company. Using technologies such as cross-attention and multi-task learning frameworks, combined with bottleneck cross-attention fusion strategies, accurate prediction of user purchase intentions is achieved. At the same time, it has achieved good results on multiple public audio datasets (CMU-MOSEI, etc.)
 
-🔧 **Technical Implementation**
-- Designed and implemented cross-attention mechanisms
-- Developed multi-task learning frameworks
-- Engineered bottleneck cross-attention fusion strategies
-
-📊 **Data Processing**
-- Audio processing of phone recordings
-- Text analysis of conversation transcripts
-- Multimodal feature fusion and alignment
-
+------------------------------------------------------------------------
 ### 💡 Technical Expertise
 
 <div align="center">
@@ -69,7 +58,7 @@ Here are some ideas to get you started:
 #### AI & Data Science
 [![Python](https://img.shields.io/badge/-Python-37A6AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![PyTorch](https://img.shields.io/badge/pytorch-white?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+
 
 #### Web Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
