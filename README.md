@@ -68,22 +68,19 @@ Here are some ideas to get you started:
 <td>
 
   
-  
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=david188888&show_icons=true"/>
 
+---
+# 📈 GitHub Stats
 
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=david188888&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david188888)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david188888&layout=compact&theme=radical)
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DB8894E6&center=true&vCenter=true&width=435&lines=Welcome+to+David's+world;Enjoy+your+journey!)](https://git.io/typing-svg)
-  
 
   
-<tr><td>
+
 
 <!-- wakatime 统计 -->
----
 ### 📊 WakaTime
   
 <!--START_SECTION:waka-->
