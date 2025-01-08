@@ -99,23 +99,6 @@ I analyzed user purchase intention based on multimodal data (audio and text) of 
 
 </div>
 
-### 📊 Coding Habits
-
-<div align="center">
-
-**🦉 Night Owl Coder** 
-
-📅 **Most Productive on Fridays**
-
-🔥 **Preferred Editor:**
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-
-💻 **Operating Systems:**
-- Windows
-- Linux
-
-</div>
-
 ### 💬 Research Philosophy
 
 <div align="center">
