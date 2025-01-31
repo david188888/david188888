@@ -103,7 +103,7 @@ I analyzed user purchase intention based on multimodal data (audio and text) of 
 
 <div align="center">
 
-> *"Think more and use your code to change the world"*
+## **Think more and use your code to change the world**
 
 </div>
 
