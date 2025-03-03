@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 #### Research Interests
 - 🧠 **Natural Language Processing (NLP)**
 - 🎵 **Audio Processing & Analysis**
-- 🤖 **Machine Learning**
+- 🤖 **Application Using Machine Learning**
 - 🔄 **Large Language Models (LLM)**
 
 #### Current Research Project
