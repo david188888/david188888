@@ -43,13 +43,6 @@ Here are some ideas to get you started:
 - 🎵 **Audio Processing & Analysis**
 - 🤖 **Application Using Machine Learning**
 - 🔄 **Large Language Models (LLM)**
-
-#### Current Research Project
-**Multimodal Purchase Intention Analysis in Telemarketing**
-
-📋 **Project Overview**
-I analyzed user purchase intention based on multimodal data (audio and text) of phone recordings. The dataset is a private data set from a cooperating telemarketing company. Using technologies such as cross-attention and multi-task learning frameworks, combined with bottleneck cross-attention fusion strategies, accurate prediction of user purchase intentions is achieved. At the same time, it has achieved good results on multiple public audio datasets (CMU-MOSEI, etc.)
-
 ------------------------------------------------------------------------
 ### 💡 Technical Expertise
 
