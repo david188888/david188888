@@ -6,6 +6,6 @@ My research interests primarily revolve around *Proactive Behavior in Speech Lan
 
 **Links** 🔗
 
-| 📄 CV | 🏠 Homepage | 📧 Contact |
+| 📄 Curriculum Vitae   | 🏠 Homepage | 📧 Contact |
 |:---:|:---:|:---:|
 | [English](https://david188888.github.io/Paper/Resume_en.pdf) \| [Chinese](https://david188888.github.io/Paper/Resume_zh.pdf) | [Profile](https://david188888.github.io/) *(Coming Soon)* | [david.liu1888888@gmail.com](mailto:david.liu1888888@gmail.com) |
