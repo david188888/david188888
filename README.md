@@ -62,13 +62,13 @@
 
 <div align="center">
  
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=david188888&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![David's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=david188888&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=david188888&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=david188888&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=david188888&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=david188888&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=73daca&area=true&hide_border=true)
 
 </div>
 
@@ -80,7 +80,7 @@
 
 ### 💭 *"Think more and use your code to change the world"*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&、center=true&vCenter=true&width=600&lines=Always+learning%2C+always+growing+%F0%9F%8C%B1;Innovation+through+collaboration+%F0%9F%A4%9D;Code+with+purpose%2C+impact+the+world+%F0%9F%8C%8D" alt="Philosophy" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Always+learning%2C+always+growing+%F0%9F%8C%B1;Innovation+through+collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
