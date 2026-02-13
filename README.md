@@ -1,5 +1,7 @@
 **Hi there** 👋
 
+![](https://raw.githubusercontent.com/david188888/repo-activity-recoder/main/generated/overview.svg)
+
 I am a Bachelor Student in Computer Science (Software Engineering) at **South China Normal University** & **University of Aberdeen** (Double Degree Program). 
 
 My research interests primarily revolve around *Proactive Behavior in Speech Language Models*, *Continual Learning*, *Unified Training-Inference Frameworks*, and *Machine Learning in Finance (FinML)*.
