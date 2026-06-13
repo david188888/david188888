@@ -1,10 +1,14 @@
 **Hi there** 👋
 
-![](https://raw.githubusercontent.com/david188888/repo-activity-recoder/main/generated/overview.svg)
+I am a Master's student in Data Science at **The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)**. I completed my Bachelor's degree in Computer Science (Software Engineering) at **South China Normal University** & **University of Aberdeen** (Double Degree Program).
 
-I am a Bachelor Student in Computer Science (Software Engineering) at **South China Normal University** & **University of Aberdeen** (Double Degree Program). 
+My research interests include *AI Venture Capital*, *Go-to-Market (GTM) Strategy*, *Machine Learning in Finance (FinML)*, and *Continual Learning*.
 
-My research interests primarily revolve around *Proactive Behavior in Speech Language Models*, *Continual Learning*, *Unified Training-Inference Frameworks*, and *Machine Learning in Finance (FinML)*.
+**GitHub Stats** 📊
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=david188888&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=david188888&layout=compact&theme=radical&hide_border=true)
 
 **Links** 🔗
 
