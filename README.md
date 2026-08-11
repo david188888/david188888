@@ -6,9 +6,9 @@ My research interests include *AI Venture Capital*, *Go-to-Market (GTM) Strategy
 
 **GitHub Stats** 📊
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=david188888&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-stats-extended-vercel.vercel.app/api?username=david188888&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=david188888&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-stats-extended-vercel.vercel.app/api/top-langs?username=david188888&layout=compact&theme=radical&hide_border=true)
 
 **Links** 🔗
 
