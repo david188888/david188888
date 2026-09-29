@@ -14,4 +14,4 @@ My research interests include *AI Venture Capital*, *Go-to-Market (GTM) Strategy
 
 | 📄 Curriculum Vitae   | 🏠 Homepage | 📧 Contact |
 |:---:|:---:|:---:|
-| [English](https://david188888.github.io/Paper/Resume_en.pdf) \| [Chinese](https://david188888.github.io/Paper/Resume_zh.pdf) | [Profile](https://david188888.github.io/) | [david.liu1888888@gmail.com](mailto:david.liu1888888@gmail.com) |
+| [English](https://david188888.github.io/files/Resume_en.pdf) \| [Chinese](https://david188888.github.io/files/Resume_zh.pdf) | [Profile](https://david188888.github.io/) | [david.liu1888888@gmail.com](mailto:david.liu1888888@gmail.com) |
