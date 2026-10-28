@@ -1,8 +1,14 @@
 **Hi there** 👋
 
-I am a Master's student in Data Science at **The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)**. I completed my Bachelor's degree in Computer Science (Software Engineering) at **South China Normal University** & **University of Aberdeen** (Double Degree Program).
+I am a Master's student in Data Science at **The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)**. I completed my Bachelor's degree in Software Engineering at **South China Normal University**.
 
 My research interests include *AI Venture Capital*, *Go-to-Market (GTM) Strategy*, *Machine Learning in Finance (FinML)*, and *Continual Learning*.
+
+**Experience** 💼
+
+- **Z Potentials** · Intern (Remote) · Oct 2026 – Present — Participate in industry and company research focused on early-stage technology ventures, covering in-depth article synthesis, interviews, and industry and product research.
+- **Insta360** · Speech Algorithm Intern · Feb 2026 – Jun 2026
+- **Amphion Technology Co., Ltd.** · R&D Intern · Jun 2025 – Sep 2025
 
 **GitHub Stats** 📊
 
